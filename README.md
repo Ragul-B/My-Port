@@ -6,7 +6,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://my-port-phi.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -14,6 +14,6 @@
 
 ### Demo Screeshots
 
-![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Ragul Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 This project is **free to use** and does not contains any license.
